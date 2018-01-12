@@ -1,10 +1,8 @@
 # ZombieGame
 A basic rendering of sprites in Java from CSCI-2510 Intro to Game design that I took further  
-  
-![Alt text](media/screenshot.png?raw=true "Example Gameplay" width="350)
 
 <p align="center">
-  <img src="media/screenshot.png" width="350"/>
+  <img src="media/screenshot.png" width="500"/>
 </p>
   
 Excerpt from the design doc (located in the root directory):  
