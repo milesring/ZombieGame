@@ -1,0 +1,5 @@
+Created by: para
+
+http://opengameart.org/content/low-poly-rocks
+
+rock.png extracted by me, didn't need to load entire sprite sheet.
